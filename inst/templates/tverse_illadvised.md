@@ -1,7 +1,7 @@
 Dear {maintainer},
 
-Your package, {package_name}, lists the tidyverse package in either Depends,
-Imports, or Suggests on CRAN.
+As of {date}, your package, {package_name}, lists the tidyverse package in
+either Depends, Imports, or Suggests on CRAN.
 
 Because the tidyverse is a set of packages designed for a range of tasks, this
 is, in short, a bad idea. The tidyverse package includes a substantial number
@@ -19,5 +19,3 @@ Please let us know if you have any questions.
 Thank you,
 
 Hadley Wickham c/o Mara Averick
-
-

@@ -1,8 +1,8 @@
-this_hw <- "tidyverse package"
+date <- Sys.Date()
 email_sender <- 'Mara Averick <mara@rstudio.com>' # your Gmail address
 body <- "Dear %s,
 
-Your package, %s, lists the tidyverse package in either Depends,
+As of %s, your package, %s, lists the tidyverse package in either Depends,
 Imports, or Suggests on CRAN.
 
 Because the tidyverse is a set of packages designed for a range of tasks, this
@@ -28,7 +28,7 @@ edat <- maintainers %>%
     To = sprintf('%s <%s>', maintainer, email),
     From = email_sender,
     Subject = sprintf('%s and the tidyverse package', package_name),
-    body = sprintf(body, maintainer, package_name)) %>%
+    body = sprintf(body, maintainer, date, package_name)) %>%
   select(one_of(c("To", "From", "Subject", "body")))
 
 write_csv(edat, here::here("inst", "emails", "tverse_revdeps_20190329.csv"))
