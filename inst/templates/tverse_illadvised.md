@@ -18,4 +18,5 @@ Please let us know if you have any questions.
 
 Thank you,
 
-Hadley Wickham c/o Mara Averick
+Hadley Wickham 
+c/o Mara Averick
