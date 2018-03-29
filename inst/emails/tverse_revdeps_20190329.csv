@@ -1,0 +1,1233 @@
+To,From,Subject,body
+Matt Dancho  <mdancho@business-science.io>,Mara Averick <mara@rstudio.com>,alphavantager and the tidyverse package,"Dear Matt Dancho ,
+
+Your package, alphavantager, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Johannes Signer  <jsigner@gwdg.de>,Mara Averick <mara@rstudio.com>,amt and the tidyverse package,"Dear Johannes Signer ,
+
+Your package, amt, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+David Stanley  <dstanley@uoguelph.ca>,Mara Averick <mara@rstudio.com>,apaTables and the tidyverse package,"Dear David Stanley ,
+
+Your package, apaTables, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Muhammad Yaseen  <myaseen208@gmail.com>,Mara Averick <mara@rstudio.com>,baystability and the tidyverse package,"Dear Muhammad Yaseen ,
+
+Your package, baystability, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Eike Christian Kühn  <eike.kuehn@pixelwoelkchen.de>,Mara Averick <mara@rstudio.com>,bioset and the tidyverse package,"Dear Eike Christian Kühn ,
+
+Your package, bioset, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Kris Eberwein  <eberwein@knights.ucf.edu>,Mara Averick <mara@rstudio.com>,blscrapeR and the tidyverse package,"Dear Kris Eberwein ,
+
+Your package, blscrapeR, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+John Haman  <mail@johnhaman.org>,Mara Averick <mara@rstudio.com>,ciTools and the tidyverse package,"Dear John Haman ,
+
+Your package, ciTools, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Ben Marwick  <benmarwick@gmail.com>,Mara Averick <mara@rstudio.com>,cvequality and the tidyverse package,"Dear Ben Marwick ,
+
+Your package, cvequality, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Keon-Woong Moon  <cardiomoon@gmail.com>,Mara Averick <mara@rstudio.com>,dplyrAssist and the tidyverse package,"Dear Keon-Woong Moon ,
+
+Your package, dplyrAssist, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Koji Makiyama  <hoxo.smile@gmail.com>,Mara Averick <mara@rstudio.com>,dplyr.teradata and the tidyverse package,"Dear Koji Makiyama ,
+
+Your package, dplyr.teradata, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Muhammad Yaseen  <myaseen208@gmail.com>,Mara Averick <mara@rstudio.com>,eda4treeR and the tidyverse package,"Dear Muhammad Yaseen ,
+
+Your package, eda4treeR, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Rasmus Larsen  <rasmushertzumlarsen@gmail.com>,Mara Averick <mara@rstudio.com>,epitable and the tidyverse package,"Dear Rasmus Larsen ,
+
+Your package, epitable, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Max Conway  <conway.max1@gmail.com>,Mara Averick <mara@rstudio.com>,fbar and the tidyverse package,"Dear Max Conway ,
+
+Your package, fbar, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Albert Y. Kim  <albert.ys.kim@gmail.com>,Mara Averick <mara@rstudio.com>,fivethirtyeight and the tidyverse package,"Dear Albert Y. Kim ,
+
+Your package, fivethirtyeight, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Tyson S. Barrett  <t.barrett@aggiemail.usu.edu>,Mara Averick <mara@rstudio.com>,furniture and the tidyverse package,"Dear Tyson S. Barrett ,
+
+Your package, furniture, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Torben Tvedebrink  <tvede@math.aau.dk>,Mara Averick <mara@rstudio.com>,genogeographer and the tidyverse package,"Dear Torben Tvedebrink ,
+
+Your package, genogeographer, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Sam Abbott  <contact@samabbott.co.uk>,Mara Averick <mara@rstudio.com>,getTBinR and the tidyverse package,"Dear Sam Abbott ,
+
+Your package, getTBinR, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Yasutaka Tanaka  <tnk.yasutaka@gmail.com>,Mara Averick <mara@rstudio.com>,ggconf and the tidyverse package,"Dear Yasutaka Tanaka ,
+
+Your package, ggconf, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Claus O. Wilke  <wilke@austin.utexas.edu>,Mara Averick <mara@rstudio.com>,ggjoy and the tidyverse package,"Dear Claus O. Wilke ,
+
+Your package, ggjoy, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Keon-Woong Moon  <cardiomoon@gmail.com>,Mara Averick <mara@rstudio.com>,ggplotAssist and the tidyverse package,"Dear Keon-Woong Moon ,
+
+Your package, ggplotAssist, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Claus O. Wilke  <wilke@austin.utexas.edu>,Mara Averick <mara@rstudio.com>,ggridges and the tidyverse package,"Dear Claus O. Wilke ,
+
+Your package, ggridges, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Jeffrey B. Arnold  <jeffrey.arnold@gmail.com>,Mara Averick <mara@rstudio.com>,ggthemes and the tidyverse package,"Dear Jeffrey B. Arnold ,
+
+Your package, ggthemes, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Oystein Sorensen  <oystein.sorensen.1985@gmail.com>,Mara Averick <mara@rstudio.com>,hdme and the tidyverse package,"Dear Oystein Sorensen ,
+
+Your package, hdme, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Bradley Boehmke  <bradleyboehmke@gmail.com>,Mara Averick <mara@rstudio.com>,learningCurve and the tidyverse package,"Dear Bradley Boehmke ,
+
+Your package, learningCurve, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Stefan McKinnon Edwards  <sme@iysik.com>,Mara Averick <mara@rstudio.com>,lemon and the tidyverse package,"Dear Stefan McKinnon Edwards ,
+
+Your package, lemon, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Ben Baumer  <ben.baumer@gmail.com>,Mara Averick <mara@rstudio.com>,mdsr and the tidyverse package,"Dear Ben Baumer ,
+
+Your package, mdsr, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Albert Y. Kim  <albert.ys.kim@gmail.com>,Mara Averick <mara@rstudio.com>,moderndive and the tidyverse package,"Dear Albert Y. Kim ,
+
+Your package, moderndive, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Nils Mueller-Scheessel  <nils.mueller-scheessel@ufg.uni-kiel.de>,Mara Averick <mara@rstudio.com>,mortAAR and the tidyverse package,"Dear Nils Mueller-Scheessel ,
+
+Your package, mortAAR, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Daniel Kaplan  <kaplan@macalester.edu>,Mara Averick <mara@rstudio.com>,mosaicModel and the tidyverse package,"Dear Daniel Kaplan ,
+
+Your package, mosaicModel, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Dewey Dunnington  <dewey@fishandwhistle.net>,Mara Averick <mara@rstudio.com>,mudata2 and the tidyverse package,"Dear Dewey Dunnington ,
+
+Your package, mudata2, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Dominique Makowski  <dom.makowski@gmail.com>,Mara Averick <mara@rstudio.com>,neuropsychology and the tidyverse package,"Dear Dominique Makowski ,
+
+Your package, neuropsychology, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Edward Visel  <edward.visel@gmail.com>,Mara Averick <mara@rstudio.com>,passport and the tidyverse package,"Dear Edward Visel ,
+
+Your package, passport, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Jorge Cimentada  <cimentadaj@gmail.com>,Mara Averick <mara@rstudio.com>,perccalc and the tidyverse package,"Dear Jorge Cimentada ,
+
+Your package, perccalc, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Marco Blume  <marco.blume@pinnaclesports.com>,Mara Averick <mara@rstudio.com>,pinnacle.data and the tidyverse package,"Dear Marco Blume ,
+
+Your package, pinnacle.data, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Alex Ioannides  <alex.ioannides@yahoo.co.uk>,Mara Averick <mara@rstudio.com>,pipeliner and the tidyverse package,"Dear Alex Ioannides ,
+
+Your package, pipeliner, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+KS Srikanth  <sri.teach@gmail.com>,Mara Averick <mara@rstudio.com>,pkggraph and the tidyverse package,"Dear KS Srikanth ,
+
+Your package, pkggraph, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Jeffrey B. Arnold  <jeffrey.arnold@gmail.com>,Mara Averick <mara@rstudio.com>,pollstR and the tidyverse package,"Dear Jeffrey B. Arnold ,
+
+Your package, pollstR, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Dominique Makowski  <dom.makowski@gmail.com>,Mara Averick <mara@rstudio.com>,psycho and the tidyverse package,"Dear Dominique Makowski ,
+
+Your package, psycho, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Sebastian Weber  <sebastian.weber@novartis.com>,Mara Averick <mara@rstudio.com>,RBesT and the tidyverse package,"Dear Sebastian Weber ,
+
+Your package, RBesT, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Jindra Lacko  <jindra.lacko@gmail.com>,Mara Averick <mara@rstudio.com>,RCzechia and the tidyverse package,"Dear Jindra Lacko ,
+
+Your package, RCzechia, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Carl Boettiger  <cboettig@gmail.com>,Mara Averick <mara@rstudio.com>,rdflib and the tidyverse package,"Dear Carl Boettiger ,
+
+Your package, rdflib, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Jakub Nowosad  <nowosad.jakub@gmail.com>,Mara Averick <mara@rstudio.com>,rgeopat2 and the tidyverse package,"Dear Jakub Nowosad ,
+
+Your package, rgeopat2, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Xu Jing  <274762204@qq.com>,Mara Averick <mara@rstudio.com>,Ricetl and the tidyverse package,"Dear Xu Jing ,
+
+Your package, Ricetl, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Nico Katzke  <nfkatzke@gmail.com>,Mara Averick <mara@rstudio.com>,rmsfuns and the tidyverse package,"Dear Nico Katzke ,
+
+Your package, rmsfuns, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Alessandro Gasparini  <ag475@leicester.ac.uk>,Mara Averick <mara@rstudio.com>,rsimsum and the tidyverse package,"Dear Alessandro Gasparini ,
+
+Your package, rsimsum, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Eric C. Anderson  <eric.anderson@noaa.gov>,Mara Averick <mara@rstudio.com>,rubias and the tidyverse package,"Dear Eric C. Anderson ,
+
+Your package, rubias, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Daniel Lüdecke  <d.luedecke@uke.de>,Mara Averick <mara@rstudio.com>,sjstats and the tidyverse package,"Dear Daniel Lüdecke ,
+
+Your package, sjstats, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Denis Rastegaev  <drastega@gmail.com>,Mara Averick <mara@rstudio.com>,specklestar and the tidyverse package,"Dear Denis Rastegaev ,
+
+Your package, specklestar, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Martin Hadley  <martinjohnhadley@gmail.com>,Mara Averick <mara@rstudio.com>,statesRcontiguous and the tidyverse package,"Dear Martin Hadley ,
+
+Your package, statesRcontiguous, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Matt Dancho  <mdancho@business-science.io>,Mara Averick <mara@rstudio.com>,sweep and the tidyverse package,"Dear Matt Dancho ,
+
+Your package, sweep, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Stephen Woloszynek  <sw424@drexel.edu>,Mara Averick <mara@rstudio.com>,theseus and the tidyverse package,"Dear Stephen Woloszynek ,
+
+Your package, theseus, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Andy Pohl  <andy@pohl.io>,Mara Averick <mara@rstudio.com>,tidyinftheo and the tidyverse package,"Dear Andy Pohl ,
+
+Your package, tidyinftheo, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Matt Dancho  <mdancho@business-science.io>,Mara Averick <mara@rstudio.com>,tidyquant and the tidyverse package,"Dear Matt Dancho ,
+
+Your package, tidyquant, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Matt Dancho  <mdancho@business-science.io>,Mara Averick <mara@rstudio.com>,timetk and the tidyverse package,"Dear Matt Dancho ,
+
+Your package, timetk, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Wenlong Liu  <wliu14@ncsu.edu>,Mara Averick <mara@rstudio.com>,usfertilizer and the tidyverse package,"Dear Wenlong Liu ,
+
+Your package, usfertilizer, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
+Christopher Gandrud  <zelig.zee@gmail.com>,Mara Averick <mara@rstudio.com>,Zelig and the tidyverse package,"Dear Christopher Gandrud ,
+
+Your package, Zelig, lists the tidyverse package in either Depends,
+Imports, or Suggests on CRAN.
+
+Because the tidyverse is a set of packages designed for a range of tasks, this
+is, in short, a bad idea. The tidyverse package includes a substantial number
+of direct and indirect dependencies (79 packages, as of this writing), many of
+which are likely unnecessary for the purposes of your package. Furthermore, the
+CRAN maintainers frown upon depending on it, which can cause hassle for you down
+the line.
+
+If you could please correct this by importing functions from or depending on the
+tidyverse component packages you require at your nearest convenience, it would
+be most appreciated.
+
+Please let us know if you have any questions.
+
+Thank you,
+
+Hadley Wickham 
+c/o Mara Averick"
