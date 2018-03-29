@@ -1,14 +1,7 @@
+# load packages ---------------------------------------------------
 suppressPackageStartupMessages(library(tidyverse))
 library(crandb)
-tverse_crandb <- package("tidyverse")
 
-# function to get maintainer ------------------------------
-get_maintainer <- function(pkg) {
-  pkg_crandb <- crandb::package(paste(pkg))
-  pkg_crandb[["Maintainer"]]
-}
-
-get_maintainer(lobstr::cst())
 # get tidyverse reverse depends, imports, suggests  ----------------
 packages <- tools::package_dependencies(
   packages = "tidyverse",
@@ -20,6 +13,12 @@ package_vec <- packages[["tidyverse"]]
 
 # package names to list -------------------------------------
 package_list <- as.list(packages[["tidyverse"]])
+
+# function to get maintainer ------------------------------
+get_maintainer <- function(pkg) {
+  pkg_crandb <- crandb::package(paste(pkg))
+  pkg_crandb[["Maintainer"]]
+}
 
 # unnest packages into tibble -------------------------------
 tverse_revdeps <- tibble::tibble(packages) %>%
@@ -38,7 +37,7 @@ crandb::package(package_vec[1])
 map(package_vec, get_maintainer)
 
 # for loop version --------------------------------------------------------
-df <- data.frame(col = list())
+df <- data.frame(col = list()) # define list col
 for (i in 1:length(package_vec)) {
   col <- get_maintainer(package_vec[i])
   df[i, 1] <- col # places the first result into row i, column 1
