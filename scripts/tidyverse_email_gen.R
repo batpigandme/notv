@@ -31,7 +31,7 @@ edat <- maintainers %>%
     body = sprintf(body, maintainer, date, package_name)) %>%
   select(one_of(c("To", "From", "Subject", "body")))
 
-write_csv(edat, here::here("inst", "emails", "tverse_revdeps_20190330.csv"))
+write_csv(edat, here::here("inst", "emails", str_glue("tverse_revdeps_{date_string}.csv")))
 
 # edat <- my_dat %>%
 #  mutate(

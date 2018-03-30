@@ -23,7 +23,9 @@ safe_send_message <- safely(send_message)
 sent_mail <- emails %>%
   map(safe_send_message)
 
-save(sent_mail, file = here::here("inst", "emails", "sent_mail_20180330.RData"))
+date_string <- as.character(date)
+
+save(sent_mail, file = here::here("inst", "emails", str_glue("sent_mail_{date_string}.RData")))
 
 # inspect for errors -------------------------------------
 errors <- sent_mail %>%
@@ -39,4 +41,4 @@ email_errors <- data_frame(package_vec, errors) %>%
 
 
 # save email error record ----------------------------------
-write_csv(email_errors, here::here("inst", "emails", "email_errors_20180330.csv"))
+write_csv(email_errors, here::here("inst", "emails", str_glue("email_errors_{date_string}.csv")))

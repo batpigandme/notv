@@ -53,4 +53,6 @@ maintainers <- df %>%
   mutate(maintainer = str_trim(maintainer))
 
 # save -------------------------------------------------------------------
-write_csv(maintainers, here::here("inst", "data", "tverse_revdep_maintainers.csv"))
+date_string <- as.character(Sys.Date())
+write_csv(maintainers, here::here("inst", "data",
+                                  str_glue("revdep_maintainers_{date_string}.csv")))
