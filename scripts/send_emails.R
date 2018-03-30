@@ -25,20 +25,25 @@ sent_mail <- emails %>%
 
 date_string <- as.character(date)
 
-save(sent_mail, file = here::here("inst", "emails", str_glue("sent_mail_{date_string}.RData")))
+save(sent_mail, file = here::here("inst", "emails",
+                                  str_glue("sent_mail_{date_string}.RData")))
 
 # inspect for errors -------------------------------------
 errors <- sent_mail %>%
   transpose() %>%
   .$error %>%
   map_lgl(Negate(is.null))
+
 sent_mail[errors]
 
 email_errors <- data_frame(package_vec, errors) %>%
-  rename("package_name" = "package_vec",
-    "had_error" = "errors") %>%
+  rename(
+    "package_name" = "package_vec",
+    "had_error" = "errors"
+  ) %>%
   inner_join(maintainers, by = "package_name")
 
 
 # save email error record ----------------------------------
-write_csv(email_errors, here::here("inst", "emails", str_glue("email_errors_{date_string}.csv")))
+write_csv(email_errors, here::here("inst", "emails",
+                                   str_glue("email_errors_{date_string}.csv")))

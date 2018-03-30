@@ -54,5 +54,10 @@ maintainers <- df %>%
 
 # save -------------------------------------------------------------------
 date_string <- as.character(Sys.Date())
-write_csv(maintainers, here::here("inst", "data",
-                                  str_glue("revdep_maintainers_{date_string}.csv")))
+write_csv(
+  maintainers,
+  here::here(
+    "inst", "data",
+    str_glue("revdep_maintainers_{date_string}.csv")
+  )
+)
