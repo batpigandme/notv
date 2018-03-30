@@ -1,57 +1,57 @@
 maintainer,email,package_name
-Matt Dancho ,mdancho@business-science.io,alphavantager
-Johannes Signer ,jsigner@gwdg.de,amt
-David Stanley ,dstanley@uoguelph.ca,apaTables
-Muhammad Yaseen ,myaseen208@gmail.com,baystability
-Eike Christian Kühn ,eike.kuehn@pixelwoelkchen.de,bioset
-Kris Eberwein ,eberwein@knights.ucf.edu,blscrapeR
-John Haman ,mail@johnhaman.org,ciTools
-Ben Marwick ,benmarwick@gmail.com,cvequality
-Keon-Woong Moon ,cardiomoon@gmail.com,dplyrAssist
-Koji Makiyama ,hoxo.smile@gmail.com,dplyr.teradata
-Muhammad Yaseen ,myaseen208@gmail.com,eda4treeR
-Rasmus Larsen ,rasmushertzumlarsen@gmail.com,epitable
-Max Conway ,conway.max1@gmail.com,fbar
-Albert Y. Kim ,albert.ys.kim@gmail.com,fivethirtyeight
-Tyson S. Barrett ,t.barrett@aggiemail.usu.edu,furniture
-Torben Tvedebrink ,tvede@math.aau.dk,genogeographer
-Sam Abbott ,contact@samabbott.co.uk,getTBinR
-Yasutaka Tanaka ,tnk.yasutaka@gmail.com,ggconf
-Claus O. Wilke ,wilke@austin.utexas.edu,ggjoy
-Keon-Woong Moon ,cardiomoon@gmail.com,ggplotAssist
-Claus O. Wilke ,wilke@austin.utexas.edu,ggridges
-Jeffrey B. Arnold ,jeffrey.arnold@gmail.com,ggthemes
-Oystein Sorensen ,oystein.sorensen.1985@gmail.com,hdme
-Bradley Boehmke ,bradleyboehmke@gmail.com,learningCurve
-Stefan McKinnon Edwards ,sme@iysik.com,lemon
-Ben Baumer ,ben.baumer@gmail.com,mdsr
-Albert Y. Kim ,albert.ys.kim@gmail.com,moderndive
-Nils Mueller-Scheessel ,nils.mueller-scheessel@ufg.uni-kiel.de,mortAAR
-Daniel Kaplan ,kaplan@macalester.edu,mosaicModel
-Dewey Dunnington ,dewey@fishandwhistle.net,mudata2
-Dominique Makowski ,dom.makowski@gmail.com,neuropsychology
-Edward Visel ,edward.visel@gmail.com,passport
-Jorge Cimentada ,cimentadaj@gmail.com,perccalc
-Marco Blume ,marco.blume@pinnaclesports.com,pinnacle.data
-Alex Ioannides ,alex.ioannides@yahoo.co.uk,pipeliner
-KS Srikanth ,sri.teach@gmail.com,pkggraph
-Jeffrey B. Arnold ,jeffrey.arnold@gmail.com,pollstR
-Dominique Makowski ,dom.makowski@gmail.com,psycho
-Sebastian Weber ,sebastian.weber@novartis.com,RBesT
-Jindra Lacko ,jindra.lacko@gmail.com,RCzechia
-Carl Boettiger ,cboettig@gmail.com,rdflib
-Jakub Nowosad ,nowosad.jakub@gmail.com,rgeopat2
-Xu Jing ,274762204@qq.com,Ricetl
-Nico Katzke ,nfkatzke@gmail.com,rmsfuns
-Alessandro Gasparini ,ag475@leicester.ac.uk,rsimsum
-Eric C. Anderson ,eric.anderson@noaa.gov,rubias
-Daniel Lüdecke ,d.luedecke@uke.de,sjstats
-Denis Rastegaev ,drastega@gmail.com,specklestar
-Martin Hadley ,martinjohnhadley@gmail.com,statesRcontiguous
-Matt Dancho ,mdancho@business-science.io,sweep
-Stephen Woloszynek ,sw424@drexel.edu,theseus
-Andy Pohl ,andy@pohl.io,tidyinftheo
-Matt Dancho ,mdancho@business-science.io,tidyquant
-Matt Dancho ,mdancho@business-science.io,timetk
-Wenlong Liu ,wliu14@ncsu.edu,usfertilizer
-Christopher Gandrud ,zelig.zee@gmail.com,Zelig
+Matt Dancho,mdancho@business-science.io,alphavantager
+Johannes Signer,jsigner@gwdg.de,amt
+David Stanley,dstanley@uoguelph.ca,apaTables
+Muhammad Yaseen,myaseen208@gmail.com,baystability
+Eike Christian Kühn,eike.kuehn@pixelwoelkchen.de,bioset
+Kris Eberwein,eberwein@knights.ucf.edu,blscrapeR
+John Haman,mail@johnhaman.org,ciTools
+Ben Marwick,benmarwick@gmail.com,cvequality
+Keon-Woong Moon,cardiomoon@gmail.com,dplyrAssist
+Koji Makiyama,hoxo.smile@gmail.com,dplyr.teradata
+Muhammad Yaseen,myaseen208@gmail.com,eda4treeR
+Rasmus Larsen,rasmushertzumlarsen@gmail.com,epitable
+Max Conway,conway.max1@gmail.com,fbar
+Albert Y. Kim,albert.ys.kim@gmail.com,fivethirtyeight
+Tyson S. Barrett,t.barrett@aggiemail.usu.edu,furniture
+Torben Tvedebrink,tvede@math.aau.dk,genogeographer
+Sam Abbott,contact@samabbott.co.uk,getTBinR
+Yasutaka Tanaka,tnk.yasutaka@gmail.com,ggconf
+Claus O. Wilke,wilke@austin.utexas.edu,ggjoy
+Keon-Woong Moon,cardiomoon@gmail.com,ggplotAssist
+Claus O. Wilke,wilke@austin.utexas.edu,ggridges
+Jeffrey B. Arnold,jeffrey.arnold@gmail.com,ggthemes
+Oystein Sorensen,oystein.sorensen.1985@gmail.com,hdme
+Bradley Boehmke,bradleyboehmke@gmail.com,learningCurve
+Stefan McKinnon Edwards,sme@iysik.com,lemon
+Ben Baumer,ben.baumer@gmail.com,mdsr
+Albert Y. Kim,albert.ys.kim@gmail.com,moderndive
+Nils Mueller-Scheessel,nils.mueller-scheessel@ufg.uni-kiel.de,mortAAR
+Daniel Kaplan,kaplan@macalester.edu,mosaicModel
+Dewey Dunnington,dewey@fishandwhistle.net,mudata2
+Dominique Makowski,dom.makowski@gmail.com,neuropsychology
+Edward Visel,edward.visel@gmail.com,passport
+Jorge Cimentada,cimentadaj@gmail.com,perccalc
+Marco Blume,marco.blume@pinnaclesports.com,pinnacle.data
+Alex Ioannides,alex.ioannides@yahoo.co.uk,pipeliner
+KS Srikanth,sri.teach@gmail.com,pkggraph
+Jeffrey B. Arnold,jeffrey.arnold@gmail.com,pollstR
+Dominique Makowski,dom.makowski@gmail.com,psycho
+Sebastian Weber,sebastian.weber@novartis.com,RBesT
+Jindra Lacko,jindra.lacko@gmail.com,RCzechia
+Carl Boettiger,cboettig@gmail.com,rdflib
+Jakub Nowosad,nowosad.jakub@gmail.com,rgeopat2
+Xu Jing,274762204@qq.com,Ricetl
+Nico Katzke,nfkatzke@gmail.com,rmsfuns
+Alessandro Gasparini,ag475@leicester.ac.uk,rsimsum
+Eric C. Anderson,eric.anderson@noaa.gov,rubias
+Daniel Lüdecke,d.luedecke@uke.de,sjstats
+Denis Rastegaev,drastega@gmail.com,specklestar
+Martin Hadley,martinjohnhadley@gmail.com,statesRcontiguous
+Matt Dancho,mdancho@business-science.io,sweep
+Stephen Woloszynek,sw424@drexel.edu,theseus
+Andy Pohl,andy@pohl.io,tidyinftheo
+Matt Dancho,mdancho@business-science.io,tidyquant
+Matt Dancho,mdancho@business-science.io,timetk
+Wenlong Liu,wliu14@ncsu.edu,usfertilizer
+Christopher Gandrud,zelig.zee@gmail.com,Zelig
