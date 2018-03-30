@@ -1,57 +1,57 @@
-package,had_error
-alphavantager,FALSE
-amt,FALSE
-apaTables,FALSE
-baystability,FALSE
-bioset,FALSE
-blscrapeR,FALSE
-ciTools,FALSE
-cvequality,FALSE
-dplyrAssist,FALSE
-dplyr.teradata,FALSE
-eda4treeR,FALSE
-epitable,FALSE
-fbar,FALSE
-fivethirtyeight,FALSE
-furniture,TRUE
-genogeographer,FALSE
-getTBinR,TRUE
-ggconf,FALSE
-ggjoy,FALSE
-ggplotAssist,FALSE
-ggridges,FALSE
-ggthemes,FALSE
-hdme,FALSE
-learningCurve,FALSE
-lemon,FALSE
-mdsr,FALSE
-moderndive,FALSE
-mortAAR,FALSE
-mosaicModel,TRUE
-mudata2,FALSE
-neuropsychology,FALSE
-passport,FALSE
-perccalc,FALSE
-pinnacle.data,FALSE
-pipeliner,TRUE
-pkggraph,FALSE
-pollstR,FALSE
-psycho,FALSE
-RBesT,FALSE
-RCzechia,FALSE
-rdflib,FALSE
-rgeopat2,FALSE
-Ricetl,FALSE
-rmsfuns,FALSE
-rsimsum,FALSE
-rubias,FALSE
-sjstats,FALSE
-specklestar,FALSE
-statesRcontiguous,FALSE
-sweep,FALSE
-theseus,FALSE
-tidyinftheo,FALSE
-tidyquant,FALSE
-timetk,FALSE
-usfertilizer,TRUE
-Zelig,FALSE
+package_name,had_error,maintainer,email
+alphavantager,FALSE,Matt Dancho,mdancho@business-science.io
+amt,FALSE,Johannes Signer,jsigner@gwdg.de
+apaTables,FALSE,David Stanley,dstanley@uoguelph.ca
+baystability,FALSE,Muhammad Yaseen,myaseen208@gmail.com
+bioset,FALSE,Eike Christian Kühn,eike.kuehn@pixelwoelkchen.de
+blscrapeR,FALSE,Kris Eberwein,eberwein@knights.ucf.edu
+ciTools,FALSE,John Haman,mail@johnhaman.org
+cvequality,FALSE,Ben Marwick,benmarwick@gmail.com
+dplyrAssist,FALSE,Keon-Woong Moon,cardiomoon@gmail.com
+dplyr.teradata,FALSE,Koji Makiyama,hoxo.smile@gmail.com
+eda4treeR,FALSE,Muhammad Yaseen,myaseen208@gmail.com
+epitable,FALSE,Rasmus Larsen,rasmushertzumlarsen@gmail.com
+fbar,FALSE,Max Conway,conway.max1@gmail.com
+fivethirtyeight,FALSE,Albert Y. Kim,albert.ys.kim@gmail.com
+furniture,TRUE,Tyson S. Barrett,t.barrett@aggiemail.usu.edu
+genogeographer,FALSE,Torben Tvedebrink,tvede@math.aau.dk
+getTBinR,TRUE,Sam Abbott,contact@samabbott.co.uk
+ggconf,FALSE,Yasutaka Tanaka,tnk.yasutaka@gmail.com
+ggjoy,FALSE,Claus O. Wilke,wilke@austin.utexas.edu
+ggplotAssist,FALSE,Keon-Woong Moon,cardiomoon@gmail.com
+ggridges,FALSE,Claus O. Wilke,wilke@austin.utexas.edu
+ggthemes,FALSE,Jeffrey B. Arnold,jeffrey.arnold@gmail.com
+hdme,FALSE,Oystein Sorensen,oystein.sorensen.1985@gmail.com
+learningCurve,FALSE,Bradley Boehmke,bradleyboehmke@gmail.com
+lemon,FALSE,Stefan McKinnon Edwards,sme@iysik.com
+mdsr,FALSE,Ben Baumer,ben.baumer@gmail.com
+moderndive,FALSE,Albert Y. Kim,albert.ys.kim@gmail.com
+mortAAR,FALSE,Nils Mueller-Scheessel,nils.mueller-scheessel@ufg.uni-kiel.de
+mosaicModel,TRUE,Daniel Kaplan,kaplan@macalester.edu
+mudata2,FALSE,Dewey Dunnington,dewey@fishandwhistle.net
+neuropsychology,FALSE,Dominique Makowski,dom.makowski@gmail.com
+passport,FALSE,Edward Visel,edward.visel@gmail.com
+perccalc,FALSE,Jorge Cimentada,cimentadaj@gmail.com
+pinnacle.data,FALSE,Marco Blume,marco.blume@pinnaclesports.com
+pipeliner,TRUE,Alex Ioannides,alex.ioannides@yahoo.co.uk
+pkggraph,FALSE,KS Srikanth,sri.teach@gmail.com
+pollstR,FALSE,Jeffrey B. Arnold,jeffrey.arnold@gmail.com
+psycho,FALSE,Dominique Makowski,dom.makowski@gmail.com
+RBesT,FALSE,Sebastian Weber,sebastian.weber@novartis.com
+RCzechia,FALSE,Jindra Lacko,jindra.lacko@gmail.com
+rdflib,FALSE,Carl Boettiger,cboettig@gmail.com
+rgeopat2,FALSE,Jakub Nowosad,nowosad.jakub@gmail.com
+Ricetl,FALSE,Xu Jing,274762204@qq.com
+rmsfuns,FALSE,Nico Katzke,nfkatzke@gmail.com
+rsimsum,FALSE,Alessandro Gasparini,ag475@leicester.ac.uk
+rubias,FALSE,Eric C. Anderson,eric.anderson@noaa.gov
+sjstats,FALSE,Daniel Lüdecke,d.luedecke@uke.de
+specklestar,FALSE,Denis Rastegaev,drastega@gmail.com
+statesRcontiguous,FALSE,Martin Hadley,martinjohnhadley@gmail.com
+sweep,FALSE,Matt Dancho,mdancho@business-science.io
+theseus,FALSE,Stephen Woloszynek,sw424@drexel.edu
+tidyinftheo,FALSE,Andy Pohl,andy@pohl.io
+tidyquant,FALSE,Matt Dancho,mdancho@business-science.io
+timetk,FALSE,Matt Dancho,mdancho@business-science.io
+usfertilizer,TRUE,Wenlong Liu,wliu14@ncsu.edu
+Zelig,FALSE,Christopher Gandrud,zelig.zee@gmail.com
