@@ -27,14 +27,14 @@ tverse_revdeps <- tibble::tibble(packages) %>%
   mutate(url = str_glue("https://CRAN.R-project.org/package={package_name}"))
 
 # works for one ---------------------------------------------
-get_maintainer(package_vec[2])
-get_maintainer(tverse_revdeps$package_name[1])
+# get_maintainer(package_vec[2])
+# get_maintainer(tverse_revdeps$package_name[1])
 
-package_list[[1]]
-crandb::package(package_list[[1]])
+# package_list[[1]]
+# crandb::package(package_list[[1]])
 
-crandb::package(package_vec[1])
-map(package_vec, get_maintainer)
+# crandb::package(package_vec[1])
+# map(package_vec, get_maintainer)
 
 # for loop version --------------------------------------------------------
 df <- data.frame(col = list()) # define list col
@@ -49,7 +49,8 @@ maintainers <- df %>%
   separate(V1, sep = "<", into = c("maintainer", "email")) %>%
   separate(email, sep = ">", into = c("email", "blah")) %>%
   select(one_of(c("maintainer", "email"))) %>%
-  add_column(package_name = c(package_vec))
+  add_column(package_name = c(package_vec)) %>%
+  mutate(maintainer = str_trim(maintainer))
 
 # save -------------------------------------------------------------------
 write_csv(maintainers, here::here("inst", "data", "tverse_revdep_maintainers.csv"))
