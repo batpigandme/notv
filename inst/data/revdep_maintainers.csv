@@ -1,10 +1,10 @@
 maintainer,email,package_name
 Matt Dancho,mdancho@business-science.io,alphavantager
-Johannes Signer,jsigner@gwdg.de,amt
 Matt Dancho,mdancho@business-science.io,anomalize
 David Stanley,dstanley@uoguelph.ca,apaTables
 Muhammad Yaseen,myaseen208@gmail.com,baystability
 Kris Eberwein,eberwein@knights.ucf.edu,blscrapeR
+Jonathan Tuke,simon.tuke@adelaide.edu.au,catenary
 John Haman,mail@johnhaman.org,ciTools
 Keon-Woong Moon,cardiomoon@gmail.com,dplyrAssist
 Koji Makiyama,hoxo.smile@gmail.com,dplyr.teradata
@@ -22,19 +22,19 @@ Albert Y. Kim,albert.ys.kim@gmail.com,moderndive
 Nils Mueller-Scheessel,nils.mueller-scheessel@ufg.uni-kiel.de,mortAAR
 Daniel Kaplan,kaplan@macalester.edu,mosaicModel
 Marie Perrot-Dockès,marie.perrocks@gmail.com,MultiVarSel
+Rory Nolan,rorynoolan@gmail.com,nandb
 Dominique Makowski,dom.makowski@gmail.com,neuropsychology
 Edward Visel,edward.visel@gmail.com,passport
 Marco Blume,marco.blume@pinnaclesports.com,pinnacle.data
 Alex Ioannides,alex.ioannides@yahoo.co.uk,pipeliner
 KS Srikanth,sri.teach@gmail.com,pkggraph
-Dominique Makowski,dom.makowski@gmail.com,psycho
+Brian A. Fannin,captain@PirateGrunt.com,raw
 Sebastian Weber,sebastian.weber@novartis.com,RBesT
 Carl Boettiger,cboettig@gmail.com,rdflib
 Jakub Nowosad,nowosad.jakub@gmail.com,rgeopat2
 Xu Jing,274762204@qq.com,Ricetl
 Nico Katzke,nfkatzke@gmail.com,rmsfuns
 Eric C. Anderson,eric.anderson@noaa.gov,rubias
-Daniel Lüdecke,d.luedecke@uke.de,sjstats
 Denis Rastegaev,drastega@gmail.com,specklestar
 Martin Hadley,martinjohnhadley@gmail.com,statesRcontiguous
 Matt Dancho,mdancho@business-science.io,sweep
