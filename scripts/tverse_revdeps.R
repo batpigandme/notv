@@ -22,9 +22,9 @@ get_maintainer <- function(pkg) {
 
 # unnest packages into tibble -------------------------------
 tverse_revdeps <- tibble::tibble(packages) %>%
-  unnest() %>%
+  tidyr::unnest() %>%
   rename("package_name" = "packages") %>%
-  mutate(url = str_glue("https://CRAN.R-project.org/package={package_name}"))
+  mutate(url = stringr::str_glue("https://CRAN.R-project.org/package={package_name}"))
 
 # works for one ---------------------------------------------
 # get_maintainer(package_vec[2])
@@ -42,22 +42,22 @@ for (i in 1:length(package_vec)) {
   col <- get_maintainer(package_vec[i])
   df[i, 1] <- col # places the first result into row i, column 1
 }
-df <- as.tibble(df)
+df <- tibble::as.tibble(df)
 
 # maintainers frame -------------------------------------------------------
 maintainers <- df %>%
-  separate(V1, sep = "<", into = c("maintainer", "email")) %>%
-  separate(email, sep = ">", into = c("email", "blah")) %>%
+  tidyr::separate(V1, sep = "<", into = c("maintainer", "email")) %>%
+  tidyr::separate(email, sep = ">", into = c("email", "blah")) %>%
   select(one_of(c("maintainer", "email"))) %>%
-  add_column(package_name = c(package_vec)) %>%
-  mutate(maintainer = str_trim(maintainer))
+  tibble::add_column(package_name = c(package_vec)) %>%
+  mutate(maintainer = stringr::str_trim(maintainer))
 
 # save -------------------------------------------------------------------
 date_string <- as.character(Sys.Date())
-write_csv(
+readr::write_csv(
   maintainers,
   here::here(
     "inst", "data",
-    str_glue("revdep_maintainers.csv")
+    stringr::str_glue("revdep_maintainers.csv")
   )
 )
