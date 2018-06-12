@@ -1,9 +1,9 @@
 maintainer,email,package_name
 Matt Dancho,mdancho@business-science.io,alphavantager
 Matt Dancho,mdancho@business-science.io,anomalize
-David Stanley,dstanley@uoguelph.ca,apaTables
 Muhammad Yaseen,myaseen208@gmail.com,baystability
 Kris Eberwein,eberwein@knights.ucf.edu,blscrapeR
+Dr. Simon Mueller,simon.mueller@muon-stat.com,CaseBasedReasoning
 Jonathan Tuke,simon.tuke@adelaide.edu.au,catenary
 John Haman,mail@johnhaman.org,ciTools
 Koji Makiyama,hoxo.smile@gmail.com,dplyr.teradata
@@ -15,6 +15,8 @@ Tyson S. Barrett,t.barrett@aggiemail.usu.edu,furniture
 Torben Tvedebrink,tvede@math.aau.dk,genogeographer
 Sam Abbott,contact@samabbott.co.uk,getTBinR
 Keon-Woong Moon,cardiomoon@gmail.com,ggplotAssist
+Robert W. Schlegel,robwschlegel@gmail.com,heatwaveR
+Jun Cai,cai-j12@mails.tsinghua.edu.cn,humidity
 Stefan McKinnon Edwards,sme@iysik.com,lemon
 Ben Baumer,ben.baumer@gmail.com,mdsr
 Albert Y. Kim,albert.ys.kim@gmail.com,moderndive
@@ -24,7 +26,6 @@ Marie Perrot-Dockès,marie.perrocks@gmail.com,MultiVarSel
 Rory Nolan,rorynoolan@gmail.com,nandb
 Dominique Makowski,dom.makowski@gmail.com,neuropsychology
 Edward Visel,edward.visel@gmail.com,passport
-Scott Gigante,scott.gigante@yale.edu,phateR
 Marco Blume,marco.blume@pinnaclesports.com,pinnacle.data
 Alex Ioannides,alex.ioannides@yahoo.co.uk,pipeliner
 KS Srikanth,sri.teach@gmail.com,pkggraph
@@ -39,7 +40,6 @@ Denis Rastegaev,drastega@gmail.com,specklestar
 Martin Hadley,martinjohnhadley@gmail.com,statesRcontiguous
 Matt Dancho,mdancho@business-science.io,sweep
 Stephen Woloszynek,sw424@drexel.edu,theseus
-Andy Pohl,andy@pohl.io,tidyinftheo
 Matt Dancho,mdancho@business-science.io,tidyquant
 Matt Dancho,mdancho@business-science.io,timetk
 Wenlong Liu,wliu14@ncsu.edu,usfertilizer
